@@ -1,8 +1,8 @@
-doc:
-- https://lutris.net/games/world-of-warcraft/
-- https://github.com/lutris/docs/blob/master/WorldOfWarcraft.md
+# Works: when you use GE-proton!
+Solution: https://github.com/SingularityGaming/Lutris/tree/main/.graph/Wine%20dependencies/ge-proton#works
 
 # Doc:
+- https://lutris.net/games/world-of-warcraft/
 - https://github.com/lutris/docs/blob/master/WorldOfWarcraft.md
 - https://github.com/lutris/docs/blob/master/Battle.Net.md
 
