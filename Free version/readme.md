@@ -1,0 +1,2 @@
+- https://wowpedia.fandom.com/wiki/World_of_Warcraft_Starter_Edition
+- https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Free_Trial
